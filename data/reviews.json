@@ -1,1 +1,38 @@
-[]
+[
+    {
+      "id": 1,
+      "brand_type": "Kendi Ürünümüz",
+      "product_name": "Maestro Sound Pro",
+      "price": 800,
+      "rating": 3,
+      "review": "Ses kalitesi bu fiyata göre muazzam ama sol kulaklığın şarjı 2 saatte bitiyor. Kronik bir batarya sorunu var sanırım.",
+      "date": "2026-05-01"
+    },
+    {
+      "id": 2,
+      "brand_type": "Rakip",
+      "product_name": "GigaPods Ultra",
+      "price": 1500,
+      "rating": 2,
+      "review": "1500 lira para verdim, evet şarjı iyi ama sürekli Bluetooth kopuyor. Toplantının ortasında bağlantı koptu rezil oldum.",
+      "date": "2026-05-03"
+    },
+    {
+      "id": 3,
+      "brand_type": "Rakip",
+      "product_name": "UcuzSes Basic",
+      "price": 400,
+      "rating": 1,
+      "review": "Fiyatı uygun diye aldım ama mikrofonu berbat. Karşı tarafa sesim boğuk gidiyor, sadece müzik dinlemek için alınır toplantı yapılmaz.",
+      "date": "2026-05-05"
+    },
+    {
+      "id": 4,
+      "brand_type": "Kendi Ürünümüz",
+      "product_name": "Maestro Sound Pro",
+      "price": 800,
+      "rating": 5,
+      "review": "Fiyat/performans olarak piyasanın en iyisi. Mikrofonu 1500 liralık GigaPods'tan bile daha net sesi iletiyor. Sadece kutu kapağı biraz gevşek o kadar.",
+      "date": "2026-05-06"
+    }
+  ]
