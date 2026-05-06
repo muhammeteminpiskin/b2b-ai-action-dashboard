@@ -1,0 +1,34 @@
+[
+    {
+      "id": 101,
+      "competitor_name": "GigaPods Ultra",
+      "price": 1500,
+      "rating": 2,
+      "review": "Ses kalitesi idare eder ama kulakta hiç durmuyor. Spor yaparken sürekli düşüyor, ergonomisi berbat tasarlanmış.",
+      "date": "2026-05-02"
+    },
+    {
+      "id": 102,
+      "competitor_name": "GigaPods Ultra",
+      "price": 1500,
+      "rating": 1,
+      "review": "Müşteri hizmetleri sıfır! Sol kulaklık bozuldu, garantiye gönderdim 3 haftadır cevap yok. Bir daha bu markayı almam.",
+      "date": "2026-05-04"
+    },
+    {
+      "id": 103,
+      "competitor_name": "UcuzSes Basic",
+      "price": 400,
+      "rating": 2,
+      "review": "Fiyatı ucuz evet ama tam bir hayal kırıklığı. Bluetooth sürümü çok eski sanırım, videolarda ses görüntüden 1 saniye sonra geliyor.",
+      "date": "2026-05-05"
+    },
+    {
+      "id": 104,
+      "competitor_name": "UcuzSes Basic",
+      "price": 400,
+      "rating": 3,
+      "review": "Kutudan şarj kablosu çıkmadı. Ayrıca plastik kalitesi o kadar kötü ki cebimde dururken bile çizildi.",
+      "date": "2026-05-06"
+    }
+  ]
